@@ -1,0 +1,10 @@
+img{
+    width:30%;
+}
+
+.city{
+    width: 50%;
+    margin-left: 350px;
+    margin-right: -350px;
+    margin-top: 20px;
+}
